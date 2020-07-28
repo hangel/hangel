@@ -23,7 +23,7 @@
 * Line
 * Line
 
-### [The GitHub Profile Trick]
+### [The GitHub Profile Trick](https://css-tricks.com/the-github-profile-trick/)
 <!--
 **hangel/hangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
