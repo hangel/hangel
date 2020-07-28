@@ -4,12 +4,12 @@
 
 ```XML
 <root>
-  <node n="1" type="line />
-  <node n="1" type="line />
-  <node n="1" type="line />
-  <node n="1" type="line />
-  <node n="1" type="line />
-  <node n="1" type="line />
+  <node n="1" type="line" />
+  <node n="1" type="line" />
+  <node n="1" type="line" />
+  <node n="1" type="line" />
+  <node n="1" type="line" />
+  <node n="1" type="line" />
 </root>
 ```
 > inset line
